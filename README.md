@@ -1,3 +1,4 @@
 # canons-lisp
 
-![PDF preview](enunciat_practica.pdf)
+[![PDF preview](icono.png)](documento.pdf)
+
