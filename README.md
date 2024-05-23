@@ -2,11 +2,11 @@
 
 ## How to run ⚙️
 
-1. Fork/Clone/Download this repo
+1. Load file
 
     `(load "canons.lsp")`
 
-1. Fork/Clone/Download this repo
+1. Run command
 
     `(inicia)`
 
